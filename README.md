@@ -3,12 +3,12 @@
 
 
 ## Part 1. 조직관리
-### 비즈니스 플랫폼 : G 스위트 https://gsuite.google.co.kr/
-### 파일관리: 드롭박스 https://www.dropbox.com/business
-### 커뮤니케이션 서비스: 슬랙 https://slack.com/
+### 비즈니스 플랫폼 : G 스위트 <https://gsuite.google.co.kr/>
+### 파일관리: 드롭박스 <https://www.dropbox.com/business>
+### 커뮤니케이션 서비스: 슬랙 <https://slack.com/>
 ### 참고할 만한 서비스
-* 세일즈포스 https://www.salesforce.com/
-* 라이브플랜 https://www.liveplan.com/  
+* 세일즈포스 <https://www.salesforce.com/>
+* 라이브플랜 <https://www.liveplan.com/>
   
   
 
